@@ -1,6 +1,8 @@
-h2. csf-brand
+h1. CSF visual brand identity files
 
-Content Strategy Forum's visual brand identity.
+These are the source files for the Content Strategy Forum (CSF) brand and its associated projects, initiatives, and communication channels. The files are maintained here to ensure the latest and accurate versions of the files are available for CSF and affiliate use.
+
+CSF collaborators and affiliates should see the "Brand Standards and Visual Identity Guidelines":http://csf.community/brand/ for file and brand usage instructions.
 
 h2. License
 
